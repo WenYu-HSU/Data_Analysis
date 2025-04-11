@@ -12,7 +12,7 @@
 - OCD（強迫症）傾向者：對 EDM 偏好顯著高，具強烈相關性
 - 音樂治療正面效果：KPOP、Jazz、Country 和 Latin 類型有助於心理疾病緩解，特別是對「焦慮」最有效，並與關聯性分群結果吻合
 - 音樂治療負面效果：Metal 和 Video Game Music 可能對失眠有反效果，與群組分析高度一致      
-#### 👉 查看完整分析檔案
+#### 👉 [查看完整分析檔案](https://github.com/WenYu-HSU/Data_Analysis/blob/main/WEKA%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6%E9%9F%B3%E6%A8%82%E7%94%A2%E6%A5%AD%E8%B6%A8%E5%8B%A2%E4%B8%A6%E9%80%A3%E7%B5%90%E9%9F%B3%E6%A8%82%E5%8F%96%E5%90%91%E8%88%87%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E7%9A%84%E5%BD%B1%E9%9F%BF.pdf)
 
 ### 2. WEKA 分析大眾對載具使用之相容性與發票捐贈之影響
 #### 🧠 專案概述
